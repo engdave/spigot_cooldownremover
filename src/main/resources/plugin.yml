@@ -1,0 +1,7 @@
+name: AttackCooldownRemover
+version: '${project.version}'
+main: me.engineerdave.cooldownremover.attackcooldownremover.AttackCooldownRemover
+api-version: 1.19
+authors: [ Engineer_Dave ]
+description: Removes weapon cooldown entirely.
+website: https://github.com/engdave
