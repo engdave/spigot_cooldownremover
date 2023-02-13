@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 219" width="390" height="219">
+	<title>Nowy projekt</title>
+	<defs>
+		<image  width="1280" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQAQMAAAD1s08VAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAACHSURBVHic7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgaxN8AAQfAspoAAAAASUVORK5CYII="/>
+		<image  width="80" height="50" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAyCAMAAAD886zOAAAAAXNSR0IB2cksfwAAAYBQTFRFAAAAOzs7Ojw7Ojw9Ozs9OD09OD07Ojs/WUtLXEpJXElLWUtJXEpHWktHWktJWkpLfm9tfW5sa1tZaVpYaFlXa1lYbVlWaFpc4Nbc3trk2tjk2dnn2dnp2drl2drj////gm5rgGxqblpXbFdVZlpe39bg3tno2Njo2Nnr2Nnt2djt2dnr//7/3Nro2Nrp/f//39fe3Nrm2Nrn1tvnZVlb4dng3Nrk2Njm2tvo3Nzp19ri1dnh2dzmZltc7+fs7+716urz6ez06ez26ur17Oz4/P3//P7/+/3/Z1xb8+zv8O/06e3y7e737O326uvx/fz/Z1lZ8ers7Ozw7O/16u7y6u706Orw7e716+zw/f/9gm1tg21pgmxoblhUbVdTbFZSgG1ogmxqZ1lb8+ns6unu6+zy6+rx/v3//v7+/v78fm5vfG1pfWtoa1lWalhVbFtXfm9rgG5tbFxd8+fr7uvu7e/z7uz06unw7u3y///9XExIXUtIW0lIWEpKWUpGXUtKPJaqBAAAAIB0Uk5TAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9QCrogAAABu0lEQVR4nO3U91eCQADAccEsKShbNEhRG9qSomU7K21Y2bBdNmlb2i7N/vXuDLPupVmcPX/w8wu84/GFO4ZK9RVBkCShwogkMz2oBnIyKwgeQo5MjSBlqY7DBpGWYHxIE/XXYPRYmoOx5LtcmQaBjqcjiLwnCuXl/W/w65rgCCq8Q0Tm/22ib2xGBwkIZzArKysVWoqi8nEGC2imkMIcZGicQTBlmsEZLAJrWKiooAOKS0rLykqK4W45y5ZXVFZVcxxXE8MlpY8x8JDKCJjMbG2t2QR3WRCsq2+wWK2NjU2yZpkV8T76cV19S+JgqwU9ORkbADacAHwfbGu32H5B7OiARTFhsLOru0cE7PaeXrA0Bn1SBkNf/4BYA+aeMDg4NDzicDhGx8bGnU6ny+VMyuWaAJm4b4KTU9NuaGZ2jk+F4PkhOL+wuOT1epdXVtd4QVhfF34An23chtG4ubXt2/Ftb+2a9vZgcP/gcEmS3O65o0XP8cnpaQo3+Sl4ptOdX/gv/ZdXgUAgGITB65vbuzVJku4fHo95/unpd0HEcygUCiv69BAFNE2HcAZfwpHIK86glmIYrEHFU34DGhOQhT2Q63kAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "MinecraftTen", "Minecraft Ten" } 
+	</style>
+	<use id="Background" href="#img1" x="-44" y="-501"/>
+	<use id="Warstwa 1" href="#img2" x="45" y="84"/>
+	<text id="Attack cooldown remover" style="transform: matrix(1,0,0,1,243,103);paint-order:stroke fill markers;stroke: #000000;stroke-width: 6;stroke-linejoin: round;" >
+		<tspan x="-102.4" y="0" class="t0">A</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">c</tspan><tspan  y="0" class="t0">k</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">c</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">l</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">w</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-52.1" y="28.8" class="t0">r</tspan><tspan  y="28.8" class="t0">e</tspan><tspan  y="28.8" class="t0">m</tspan><tspan  y="28.8" class="t0">o</tspan><tspan  y="28.8" class="t0">v</tspan><tspan  y="28.8" class="t0">e</tspan><tspan  y="28.8" class="t0">r</tspan><tspan  y="28.8" class="t0">
+</tspan>
+	</text>
+</svg>
