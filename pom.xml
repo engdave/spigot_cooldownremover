@@ -6,7 +6,7 @@
 
     <groupId>me.engineerdave.cooldownremover</groupId>
     <artifactId>AttackCooldownRemover</artifactId>
-    <version>1.0</version>
+    <version>1.2</version>
     <packaging>jar</packaging>
 
     <name>AttackCooldownRemover</name>
