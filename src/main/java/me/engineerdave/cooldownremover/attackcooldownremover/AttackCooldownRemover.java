@@ -18,14 +18,14 @@ public final class AttackCooldownRemover extends JavaPlugin implements Listener 
 
     @EventHandler
     public void onAttack(EntityDamageByEntityEvent event) {
-        if (!(event.getDamager() instanceof Player)) {
+        if (!(event.getDamager() instanceof Player player)) {
             return;
         }
 
-        Player player = (Player) event.getDamager();
         AttributeInstance attackSpeed = player.getAttribute(Attribute.GENERIC_ATTACK_SPEED);
-        assert attackSpeed != null;
-        attackSpeed.setBaseValue(Double.POSITIVE_INFINITY);
+        if (attackSpeed != null) {
+            attackSpeed.setBaseValue(Double.POSITIVE_INFINITY);
+        }
     }
 
     @Override
