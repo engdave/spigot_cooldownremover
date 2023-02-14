@@ -1,6 +1,5 @@
 package me.engineerdave.cooldownremover.attackcooldownremover;
 
-import org.bukkit.Bukkit;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.attribute.AttributeInstance;
 import org.bukkit.entity.Player;
@@ -13,8 +12,8 @@ public final class AttackCooldownRemover extends JavaPlugin implements Listener 
 
     @Override
     public void onEnable() {
-        System.out.println("Launching Cooldown Remover...");
-        Bukkit.getServer().getPluginManager().registerEvents(this, this);
+        getLogger().info("Launching Cooldown Remover...");
+        getServer().getPluginManager().registerEvents(this, this);
     }
 
     @EventHandler
@@ -31,6 +30,6 @@ public final class AttackCooldownRemover extends JavaPlugin implements Listener 
 
     @Override
     public void onDisable() {
-        System.out.println("Disabling Cooldown Remover...");
+        getLogger().info("Disabling Cooldown Remover...");
     }
 }
